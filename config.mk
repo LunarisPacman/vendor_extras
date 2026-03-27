@@ -180,7 +180,8 @@ PRODUCT_PACKAGES += \
     FontSonySketchOverlay \
     FontStoropiaOverlay \
     FontSurferOverlay \
-    FontUbuntuOverlay
+    FontUbuntuOverlay \
+    FontExtFontOverlay
 
 PRODUCT_PACKAGES += \
     NavbarAndroidOverlay \
