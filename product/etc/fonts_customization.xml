@@ -12,8 +12,40 @@
     </family>
     
     <!-- Slim -->
-    <family customizationType="new-named-family" name="slim">
-        <font weight="300" style="normal">slim.ttf</font>
+    <family customizationType="new-named-family" name="apple1">
+        <font weight="400" style="normal">apple1.ttf</font>
+    </family>
+
+    <family customizationType="new-named-family" name="apple2">
+        <font weight="400" style="normal">apple2.ttf</font>
+    </family>
+
+    <family customizationType="new-named-family" name="notsogood">
+        <font weight="400" style="normal">notsogood.ttf</font>
+    </family>
+
+    <family customizationType="new-named-family" name="notsotall">
+        <font weight="400" style="normal">notsotall.ttf</font>
+    </family>
+
+    <family customizationType="new-named-family" name="random">
+        <font weight="400" style="normal">random.ttf</font>
+    </family>
+
+    <family customizationType="new-named-family" name="samsung4">
+        <font weight="400" style="normal">samsung4.ttf</font>
+    </family>
+
+    <family customizationType="new-named-family" name="soogood">
+        <font weight="400" style="normal">soogood.ttf</font>
+    </family>
+
+    <family customizationType="new-named-family" name="stroke">
+        <font weight="400" style="normal">stroke.ttf</font>
+    </family>
+
+    <family customizationType="new-named-family" name="stroke2">
+        <font weight="400" style="normal">stroke2.ttf</font>
     </family>
 
     <!-- Accuratist -->

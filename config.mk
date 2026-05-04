@@ -86,6 +86,15 @@ PRODUCT_PACKAGES += \
     ClockFontFifa2018Overlay \
     ClockFontFloorlightOverlay \
     ClockFontGautsMotelUpperRightOverlay \
+    ClockFontApple1Overlay \
+    ClockFontApple2Overlay \
+    ClockFontNotSoGoodOverlay \
+    ClockFontSamsung4Overlay \
+    ClockFontSooGoodOverlay \
+    ClockFontRandomOverlay \
+    ClockFontStroke2Overlay \
+    ClockFontStrokeOverlay \
+    ClockFontNotSoTallOverlay \
     ClockFontGoogleSansFlexOverlay \
     ClockFontGrandHotelOverlay \
     ClockFontHangedOverlay \
