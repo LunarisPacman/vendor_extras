@@ -111,6 +111,7 @@ PRODUCT_PACKAGES += \
     ClockFontMessingLetternOverlay \
     ClockFontMonbijouxClownpieceOverlay \
     ClockFontMotorola \
+    ClockFontNeumaticCompressedOverlay \
     ClockFontNeonDiscoOverlay \
     ClockFontNinjasOverlay \
     ClockFontNokiaPureOverlay \
@@ -167,6 +168,7 @@ PRODUCT_PACKAGES += \
     FontIBMPlexSansOverlay \
     FontLatoOverlay \
     FontLinotteOverlay \
+    FontNeumaticCompressedOverlay \
     FontNokiaPureOverlay \
     FontNothingDotHeadlineOverlay \
     FontNothingDotOverlay \

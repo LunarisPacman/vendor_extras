@@ -967,6 +967,15 @@
         <font weight="300" style="normal">NeonDisco.ttf</font>
     </family>
 
+    <!-- NeumaticCompressed -->
+    <family customizationType="new-named-family" name="neumatic-compressed">
+        <font weight="400" style="normal">NeumaticCompressed-Medium.otf</font>
+        <font weight="500" style="normal">NeumaticCompressed-Medium.otf</font>
+        <font weight="700" style="normal">NeumaticCompressed-Bold.otf</font>
+    </family>
+    <alias name="neumatic-compressed-medium" to="neumatic-compressed" weight="500"/>
+    <alias name="neumatic-compressed-bold" to="neumatic-compressed" weight="700"/>
+
     <!-- NINJAS -->
     <family customizationType="new-named-family" name="NINJAS">
         <font weight="300" style="normal">NINJAS.ttf</font>
